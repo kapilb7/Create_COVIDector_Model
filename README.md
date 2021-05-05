@@ -4,7 +4,9 @@ Refer to <a href="https://github.com/kapilb7/Create_COVIDector_Model/blob/main/C
 <br> Refer to <a href="https://github.com/kapilb7/Create_COVIDector_Model/blob/main/Create_COVIDNet.ipynb">Create_COVIDNet.ipynb</a>, to create the TensorFlow model.
 <br> Refer to <a href="https://developer.apple.com/machine-learning/create-ml/">this documentation</a> provided by Apple, to create the CoreML model, using Create ML.
 
-Refer to the <a href="">Inference.py</a>, to test the TensorFlow Lite model with any random sample X-ray image.
+Check out <a href="">Inference.py</a>, to test the TensorFlow Lite model with any random sample X-ray image.
+<br>A pretrained CoreML model can be found <a href="https://github.com/kapilb7/Create_COVIDector_Model/blob/main/COVIDNetV2.mlmodel">here</a>.
+A pretrained TensorFlow Lite model can be found <a href="https://github.com/kapilb7/Create_COVIDector_Model/blob/main/COVIDNetV2.tflite">here</a>.
 
 <h3>Check out the <a href="https://github.com/kapilb7/COVIDector">COVIDector project here</a>, supports iOS/iPadOS. </h3>
 <h3>Note: This is far from production ready.</h3>
